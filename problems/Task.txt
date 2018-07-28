@@ -1,0 +1,12 @@
+Create a Task class that has the following attributes
+- id (integer)
+- name (string)
+- startDate datetime
+- endDate - datetime
+- priority (int)
+- completed (bool)
+
+1) initialize startDate and endDate to now in the constructor
+2) create a print method to print out all information 
+3) create 5 Tasks and put it in a list 
+4) loop the the list and print out each task 
